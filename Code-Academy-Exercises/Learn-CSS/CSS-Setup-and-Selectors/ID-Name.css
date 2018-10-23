@@ -1,0 +1,18 @@
+p {
+    font-family: Arial;
+}
+# article-title {
+    font-family: cursive;
+    text-transform: capitalize;
+}
+h1 {
+    color: maroon;
+}
+
+.title {
+    color: teal;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
